@@ -1,4 +1,7 @@
 class UsersController < ApplicationController
+  def home
+  end
+
   def index
   end
 
@@ -6,5 +9,8 @@ class UsersController < ApplicationController
   end
 
   def create
+  end
+
+  def show
   end
 end
