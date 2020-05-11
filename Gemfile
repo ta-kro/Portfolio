@@ -21,6 +21,7 @@ gem 'mini_racer', platforms: :ruby
 gem 'slim-rails'
 gem 'html2slim'
 gem 'bcrypt'
+gem 'pry-rails'
 
 group :development, :test do
   gem 'rspec-rails', '~> 3.8'
