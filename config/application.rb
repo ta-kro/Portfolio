@@ -38,7 +38,7 @@ module BlogApp
       helper_specs: false,
       routing_specs: false,
       request_specs: false
-      g.fixture_replacement 
+      g.fixture_replacement
     end
   end
 end
