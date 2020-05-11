@@ -20,6 +20,7 @@ gem 'bootsnap', require: false
 gem 'mini_racer', platforms: :ruby
 gem 'slim-rails'
 gem 'html2slim'
+gem 'bcrypt'
 
 group :development, :test do
   gem 'rspec-rails', '~> 3.8'
